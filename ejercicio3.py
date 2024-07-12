@@ -15,3 +15,5 @@ doble = numero * 2
 
 # Mostrar el doble del número ingresado
 print(f"El doble del número que ingresaste es: {doble}")
+
+print("Ejercicio presentado por Johana Alexandra Herrera Ruales")
