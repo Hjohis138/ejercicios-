@@ -24,4 +24,10 @@ lista=[1,2,3,4]  #esta en preguntando que si esta en la lista
 control=5 in lista
 print(control)
 
+lista1=[1,2,3,4]
+lista2=[5]
+control1=lista <= lista
+print(control1)
+
+
 
