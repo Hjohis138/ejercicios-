@@ -98,13 +98,27 @@ print(midiccionario)
 
 #crear diccionario dentro de otro 
 midicionario1={
-    "1":{"nombre1":"juan david" , "edad":25, "carrera": "ingeniero"},
-    "2":{"nombre1":"marcos" , "edad":45, "carrera": "quimico"},
-    "3":{"nombre1":"felipe" , "edad":20, "carrera": "docente"}
+    1:{"nombre1":"juan david" , "edad":25, "carrera": "ingeniero"},
+    2:{"nombre1":"marcos" , "edad":45, "carrera": "quimico"},
+    3:{"nombre1":"felipe" , "edad":20, "carrera": "docente"}
 }
-#print(midicionario1)
+print(midicionario1)
 
 print(midicionario1[3])
+
+#valiables   el colocar miV regla de programacion estructura de cammello
+miVariable=0 #estructura de camello
+Mivarible=0
+
+mivariable=0 #de serpiente
+
+#arquitecto de software empieza el programa y define las reglas 
+#el equipo trabaja segun estas reglas antes de crear se define como se escribe ejemplo
+#varibles en ingles y lenguaje 
+#no dejar varible cortas deben tener idea de que se trata por que se suele olvidar 
+
+
+
 
                
 
