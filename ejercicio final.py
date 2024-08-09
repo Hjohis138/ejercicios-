@@ -11,6 +11,8 @@ letras.append(input("Ingrese la tercera letra de su elección: ".lower()) )
 print("\n") #defino salto de línea
 
 print("CANTIDAD DE LETRAS")
+palabras=texto.split()
+print(Hemos encontrado {len(palabras)} palabras en tu texto)
 cantidad_letras1=texto.count(letras[0])
 cantidad_letras2=texto.count(letras[1])
 cantidad_letras3=texto.count(letras[2])
